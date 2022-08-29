@@ -2,6 +2,12 @@
 title: Upgrade notes
 ---
 
+## 22.12 {#22-12}
+
+Consult the
+[22.12 Tickets](https://wazo-dev.atlassian.net/issues/?jql=project%3DWAZO%20AND%20fixVersion%3D22.12)
+for more information.
+
 ## 22.11 {#22-11}
 
 Consult the
